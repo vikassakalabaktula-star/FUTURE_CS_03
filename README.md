@@ -6,7 +6,7 @@ an AppSec consultant / SOC analyst would assess a SaaS API's authentication,
 authorization, and data-exposure posture.
 
 ## 📄 Report
-See [`API_Security_Risk_Analysis_Report.pdf`](./API_Security_Risk_Analysis_Report.pdf)
+See [`API_Security_Risk_Analysis_Report.docx`](./API_Security_Risk_Analysis_Report.docx)
 for the full findings, severity ratings, business impact, and remediation steps.
 
 ## 🎯 Scope
@@ -33,7 +33,7 @@ for the full findings, severity ratings, business impact, and remediation steps.
    and remediation for each finding.
 
 ## 📁 Repo Contents
-- `API_Security_Risk_Analysis_Report.pdf` — full report
+- `API_Security_Risk_Analysis_Report.docx` — full report
 - `screenshots/` — Postman request/response captures (see below)
 
 ## 📸 Screenshots
